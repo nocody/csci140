@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nickcody
+ *
+ */
+module methodPractice {
+}

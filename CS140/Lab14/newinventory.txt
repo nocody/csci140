@@ -1,0 +1,5 @@
+Ford Mustang 2002 4999.49 
+Chevrolet Corvette 1966 25200.0 
+Jeep Cherokee 2003 9499.5 
+Toyota Corrolla 1997 19800.6 
+Toyota Tundra 2005 11500.0 
